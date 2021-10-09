@@ -318,6 +318,12 @@ const themes = {
     text_color: "0088ff",
     bg_color: "193549",
   },
+  star_spangled_banner: {
+    title_color: "B31942",
+    icon_color: "0A3161",
+    text_color: "FFFFFF",
+    bg_color: "0A3161",
+  },
 };
 
 module.exports = themes;
